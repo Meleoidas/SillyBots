@@ -1,4 +1,4 @@
-2 multipurpose custom Discord bots (applications* 🤓) written in JS, using the discord.js library, and running from a single index.js file.
+2 multipurpose custom Discord bots (applications* 🤓) built with Node.js, using the discord.js library, and running from a single index.js file.
 
 This project isn't meant for large-scale environments. The code is meant for functionality not efficiency. (NOT vibecoded) (besides a few functions)
 
